@@ -12,16 +12,6 @@ Tiny URL Home UI Page
 
 ![Tiny URL Home UI Page](https://upload.wikimedia.org/wikipedia/commons/c/c6/TinyURLHomePage.png)
 
-EnterLongURL in URL Home UI Page
-================================
-
-![Blog Post UI Page](https://upload.wikimedia.org/wikipedia/commons/6/68/EnterLongURLinTinyURLApp.png)
-
-Tiny URL for Long URL in  Tiny URL Home UI Page
-================================================
-
-![Blog Post UI Page](https://upload.wikimedia.org/wikipedia/commons/e/ea/TinyUrlForLongURL.png)
-
 
 ## Dependencies
 
