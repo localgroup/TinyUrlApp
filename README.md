@@ -50,8 +50,8 @@ This needs to be installed in your machine and Running with port :6379
 
 Note:
 Before starting Redis server replace TinyUrlApp/redis.conf  with existing file 
-For windows redis.conf will be present 
-=====================================
+For windows redis.conf will be present in the below directory
+
 C:\Program Files\Redis\conf
 
 
